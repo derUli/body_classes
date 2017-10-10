@@ -1,0 +1,14 @@
+{
+	"id": "body_classes",
+	"version": "1.0",
+	"description": "add custom css classes to body",
+	"categories": [
+		"css",
+		"classes",
+		"custom data"
+	],
+	"dependencies": [
+		"php_check_syntax"
+	],
+	"compatible_from": "2018.1"
+}
